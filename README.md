@@ -43,26 +43,26 @@
 ## 使用方法
 
 添加 Base64 订阅：
-- [原始链接](https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt)
-- [GhProxy.cfd](https://ghproxy.cfd/https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.txt)
+- [原始链接](https://raw.githubusercontent.com/ohay5128/NoMoreWalls/master/list.txt)
+- [GhProxy.cfd](https://ghproxy.cfd/https://raw.githubusercontent.com/ohay5128/NoMoreWalls/master/list.txt)
 - 此处不公开部分私有镜像站
 
 以下链接可能不是最新，但绝对不会被封：
-- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/peasoft/NoMoreWalls@master/list.txt)
-- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/peasoft/NoMoreWalls@master/list.txt)
-- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/peasoft/NoMoreWalls@master/list.txt)
-- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/peasoft/NoMoreWalls@master/list.txt)
+- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/ohay5128/NoMoreWalls@master/list.txt)
+- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/ohay5128/NoMoreWalls@master/list.txt)
+- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/ohay5128/NoMoreWalls@master/list.txt)
+- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/ohay5128/NoMoreWalls@master/list.txt)
 
 或添加 Clash Meta 订阅：（如果使用的是原版 Clash，请将链接最后的 `.meta.yml` 替换成 `.yml`。我们始终建议您使用 Clash Meta 而不是已被废弃的 Clash。**提醒：Clash Meta (mihomo) 是有手机版的！还在用 Clash For Android 的用户请尽快迁移至 [Clash Meta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid)！**）
-- [原始链接](https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml)
-- [GhProxy.cfd](https://ghproxy.cfd/https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml)
+- [原始链接](https://raw.githubusercontent.com/ohay5128/NoMoreWalls/master/list.meta.yml)
+- [GhProxy.cfd](https://ghproxy.cfd/https://raw.githubusercontent.com/ohay5128/NoMoreWalls/master/list.meta.yml)
 - 此处不公开部分私有镜像站
 
 以下链接可能不是最新，但绝对不会被封：
-- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/peasoft/NoMoreWalls@master/list.meta.yml)
-- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/peasoft/NoMoreWalls@master/list.meta.yml)
-- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/peasoft/NoMoreWalls@master/list.meta.yml)
-- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/peasoft/NoMoreWalls@master/list.meta.yml)
+- [JsDelivr 默认 (当前 Fastly)](https://cdn.jsdelivr.net/gh/ohay5128/NoMoreWalls@master/list.meta.yml)
+- [JsDelivr Fastly CDN](https://fastly.jsdelivr.net/gh/ohay5128/NoMoreWalls@master/list.meta.yml)
+- [JsDelivr Cloudflare CDN](https://testingcf.jsdelivr.net/gh/ohay5128/NoMoreWalls@master/list.meta.yml)
+- [JsDelivr GCore CDN](https://gcore.jsdelivr.net/gh/ohay5128/NoMoreWalls@master/list.meta.yml)
 
 或添加 Sing-Box 订阅：（第三方提供转换，不支持本项目的节点选择和分流规则，该链接本身需要过代理。建议在本地搭建转换服务。）
 - [转换链接（第三方）](https://subapi.fxxk.dedyn.io/sub?target=singbox&url=https%3A%2F%2Fraw.githubusercontent.com%2Fpeasoft%2FNoMoreWalls%2Fmaster%2Fsnippets%2Fnodes.meta.yml&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&tls13=true&emoji=true&list=false&xudp=true&udp=true&tfo=false&expand=true&scv=false&fdn=false&singbox.ipv6=1)
