@@ -1,70 +1,167 @@
 proxies:
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: RU_speednode_0025
+  name: RU_speednode_0006
   port: 443
   reality-opts:
-    public-key: J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8
-    short-id: '!!str 16895459a2c7768d'
-  server: 188.225.81.91
-  servername: wa.sfasti.ru
+    public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg
+    short-id: '!!str 17802e8ff84f12df'
+  server: 51.250.65.209
+  servername: ads.x5.ru
   skip-cert-verify: false
   tls: true
   type: vless
   udp: true
-  uuid: d4e4c02a-d969-47a6-ba0f-3d433fdac206
+  uuid: 4371ad14-b981-4699-bedf-83fb79bde3e6
+- client-fingerprint: chrome
+  name: RU_speednode_0007
+  port: 443
+  reality-opts:
+    public-key: t0Gj0moa6d8jMp9LazLtWPenE3wl_M9tMHveifor8GU
+    short-id: '!!str 4d4421a0bac569'
+  server: 51.250.4.181
+  servername: eh.vk.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 846c5d45-936c-42f6-9120-2d13830d5fa0
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: RU_speednode_0026
+  name: RU_speednode_0008
   port: 443
   reality-opts:
-    public-key: J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8
-    short-id: '!!str 16895459a2c7768d'
-  server: wa.sfasti.ru
-  servername: wa.sfasti.ru
+    public-key: B8ekmOgk9QTnXJJOR_4lDSUapa7PZvV2E37l1Nm4lxk
+    short-id: '!!str f497fe3dff69ff78'
+  server: 95.163.251.224
+  servername: eh.vk.com
   skip-cert-verify: false
   tls: true
   type: vless
   udp: true
-  uuid: d4e4c02a-d969-47a6-ba0f-3d433fdac206
+  uuid: e707c2aa-7858-403c-9113-c8eafa86c7ef
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: RU_speednode_0027
-  port: 443
+  name: RU_speednode_0009
+  port: 1488
   reality-opts:
-    public-key: V6i1V9804ZfgT8nutUwDs5IDQdcY9pK5uO075SW4ml4
-    short-id: '!!str 2d46a79deebf50fd'
-  server: 94.198.218.41
-  servername: deepl.com
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: '!!str 6ba85179e30d4fc2'
+  server: 51.250.104.85
+  servername: ads.x5.ru
   skip-cert-verify: false
   tls: true
   type: vless
   udp: true
-  uuid: ed97e008-2b8d-4415-94c7-3da4919d361a
-- client-fingerprint: chrome
-  name: RU_speednode_0028
-  port: 8080
-  reality-opts:
-    public-key: iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs
-    short-id: '!!str 27cfa05000c23cc4'
-  server: 84.22.150.195
-  servername: yandex.com
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: 1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: RU_speednode_0029
-  port: 443
+  name: RU_speednode_0010
+  port: 1488
   reality-opts:
-    public-key: J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8
-    short-id: '!!str 16895459a2c7768d'
-  server: 66.90.90.10
-  servername: wa.sfasti.ru
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: '!!str 6ba85179e30d4fc2'
+  server: 51.250.98.101
+  servername: ads.x5.ru
   skip-cert-verify: false
   tls: true
   type: vless
   udp: true
-  uuid: d4e4c02a-d969-47a6-ba0f-3d433fdac206
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: RU_speednode_0011
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: '!!str 6ba85179e30d4fc2'
+  server: 51.250.109.47
+  servername: ads.x5.ru
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: RU_speednode_0012
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+  server: 51.250.28.8
+  servername: ads.x5.ru
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: RU_speednode_0013
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: '!!str 6ba85179e30d4fc2'
+  server: 51.250.16.178
+  servername: ads.x5.ru
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: RU_speednode_0014
+  port: 3443
+  reality-opts:
+    public-key: dfT5z5agib56VILhtjzfgksA4M5Ez0yNA_19Ck2z5ho
+    short-id: '!!str d16801fe66c1c538'
+  server: 78.159.247.136
+  servername: max.ru
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1e9fe9f0-0954-4d17-80c3-fe824b49f689
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: RU_speednode_0015
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: '!!str 6ba85179e30d4fc2'
+  server: 51.250.29.71
+  servername: ads.x5.ru
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: RU_speednode_0016
+  port: 4249
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: '!!str 6ba85179e30d4fc2'
+  server: 51.250.24.245
+  servername: ads.x5.ru
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: RU_speednode_0017
+  port: 1488
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: '!!str 6ba85179e30d4fc2'
+  server: 51.250.98.83
+  servername: ads.x5.ru
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5ba2e48a-d36c-40a5-a4a1-2819ed6efce5
