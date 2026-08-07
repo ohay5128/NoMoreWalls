@@ -50,7 +50,9 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.120:8443?sni=grape
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#%F0%9F%87%B3%F0%9F%87%B1
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.134:8443?sni=grape-zet-turbo-nl.yyuyy.com#%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A%20%231
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.66:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#%E8%8D%B7%E5%85%B0%20%231
-hysteria2://STYyftThFn@freedom.chenlan.top:12765?insecure=1&sni=freedom.chenlan.top#%F0%9F%87%AF%F0%9F%87%B5JP
+hysteria2://STYyftThFn@freedom.chenlan.top:12765?insecure=1&sni=#%40GozargahAzad%7C%F0%9F%87%B7%F0%9F%87%B4
+hysteria2://STYyftThFn@freedom.chenlan.top:12765?insecure=1&sni=freedom.chenlan.top#%F0%9F%87%B7%F0%9F%87%B4137070%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
+hysteria2://STYyftThFn@soskeynets.chenlan.top:12765?insecure=1&sni=freedom.chenlan.top#%F0%9F%87%B7%F0%9F%87%B4137070%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...%20%231
 hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@23.95.75.151:8443?sni=hopp-us.yyuyy.com#%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD%20%231
 hysteria2://XhVX5cnBmJ@185.253.117.217:443?insecure=1&sni=www.intel.com&obfs=salamander&obfs-password=TelEgRam=V2RayyNGvpn#%F0%9F%87%A7%F0%9F%87%ADBH
 hysteria2://a000fb47-5dfd-4a6b-9739-2878883d6969@uswx4.wxgqlfx.vip:36253?insecure=1&sni=144.225.187.153#%E7%BE%8E%E5%9B%BD4%40wxgqlfx%23%E7%BE%8E%E5%9B%BD

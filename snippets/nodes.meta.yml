@@ -408,10 +408,26 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: 🇯🇵JP
+- name: '@GozargahAzad|🇷🇴'
   password: STYyftThFn
   port: 12765
   server: freedom.chenlan.top
+  skip-cert-verify: true
+  sni: ''
+  tls: false
+  type: hysteria2
+- name: 🇷🇴137070 | ⚡️Telegram = t.me/S...
+  password: STYyftThFn
+  port: 12765
+  server: freedom.chenlan.top
+  skip-cert-verify: true
+  sni: freedom.chenlan.top
+  tls: false
+  type: hysteria2
+- name: '🇷🇴137070 | ⚡️Telegram = t.me/S... #1'
+  password: STYyftThFn
+  port: 12765
+  server: soskeynets.chenlan.top
   skip-cert-verify: true
   sni: freedom.chenlan.top
   tls: false
