@@ -346,6 +346,14 @@ proxies:
   sni: vpn-kr-003.fastervpn.world
   tls: false
   type: hysteria2
+- name: 🇨🇦140465 | ⚡️Telegram = t.me/S...
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 99.79.62.65
+  skip-cert-verify: true
+  sni: www.bing.com
+  tls: false
+  type: hysteria2
 - name: '罗马尼亚 #2'
   password: Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0
   port: 8443
@@ -402,6 +410,13 @@ proxies:
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.68
+  sni: grape-zet-turbo-nl.yyuyy.com
+  tls: false
+  type: hysteria2
+- name: '荷兰 #7'
+  password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
+  port: 8443
+  server: 86.107.178.69
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
@@ -465,7 +480,7 @@ proxies:
   sni: quic.tyr-agentstvo.tech
   tls: false
   type: hysteria2
-- name: '荷兰 #7'
+- name: '荷兰 #8'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -559,7 +574,7 @@ proxies:
   sni: www.amazon.com
   tls: false
   type: hysteria2
-- name: '荷兰 #8'
+- name: '荷兰 #9'
   password: gf1
   port: 443
   server: 5.129.235.85
@@ -572,6 +587,14 @@ proxies:
   port: 8443
   server: 185.79.138.71
   sni: hopp-legend-se.roxa.org
+  tls: false
+  type: hysteria2
+- name: 🇸🇬140470 | ⚡️Telegram = t.me/S...
+  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
+  port: 443
+  server: 13.229.106.122
+  skip-cert-verify: true
+  sni: css.rbxcdn.com
   tls: false
   type: hysteria2
 - name: 🇺🇸140322 | ⚡️Telegram = t.me/S...
@@ -598,14 +621,14 @@ proxies:
   sni: vk.com
   tls: false
   type: hysteria2
-- name: '荷兰 #9'
+- name: '荷兰 #10'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.216
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: '荷兰 #10'
+- name: '荷兰 #11'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.219
@@ -616,6 +639,13 @@ proxies:
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.220
+  sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- name: '英国 #2'
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 205.237.109.221
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
