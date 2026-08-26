@@ -510,7 +510,7 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 🍑74@oneclickvpnkeys
+- name: 🥎88@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8080
   server: 46.229.243.141
@@ -549,15 +549,24 @@ proxies:
   sni: replay.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 🏓26@oneclickvpnkeys
-  password: 2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o
-  port: 443
-  server: 89.125.156.80
+- name: 🇳🇱153000 | ⚡️Telegram = t.me/S...
+  password: 39b27e20-16f5-45a1-8139-7c9b7f51b6f8
+  port: 4433
+  server: nl1.xiaoliyu.cyou
   skip-cert-verify: true
-  sni: pixelcast.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: '✅  @vistav2ray  👈👈کانال ما ✅ #1'
+- name: Telegram 🆔@cnetvpn 🇷🇺
+  obfs: salamander
+  obfs-password: 09p333uviv2qal0y
+  password: 617z9r1mbzbm1t5z
+  port: 52000
+  server: giftcard.gisora.ir
+  skip-cert-verify: false
+  sni: giftcard.gisora.ir
+  tls: false
+  type: hysteria2
+- name: ✅  @vistav2ray  👈👈کانال ما ✅
   obfs: salamander
   obfs-password: uw9b2qq5rx
   password: 6aab8efdf13945829ae3699c342be406
@@ -583,6 +592,16 @@ proxies:
   sni: deu0003ntrhy01.tcp-reset-club.net
   tls: false
   type: hysteria2
+- name: Telegram 🆔@cnetvpn 🇩🇪
+  obfs: salamander
+  obfs-password: 6cmj1dymhm79hopl
+  password: 8z2e26xkqsa598s3
+  port: 52000
+  server: gift-catalog.aroonia.ir
+  skip-cert-verify: false
+  sni: gift-catalog.aroonia.ir
+  tls: false
+  type: hysteria2
 - name: '@Configvibes🇹🇷'
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------
@@ -603,6 +622,13 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
+- name: 🥎80@oneclickvpnkeys
+  password: GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_
+  port: 443
+  server: hy2-switzerlandgopota.unlimited-access.ru
+  sni: hy2-switzerlandgopota.unlimited-access.ru
+  tls: false
+  type: hysteria2
 - name: 'Telegram channel : @Daily_Conf...'
   obfs: salamander
   obfs-password: SalamanderDE2026
@@ -611,6 +637,14 @@ proxies:
   server: 45.128.99.14
   skip-cert-verify: true
   sni: de.nobelchat.ru
+  tls: false
+  type: hysteria2
+- name: 🇰🇷153001 | ⚡️Telegram = t.me/S...
+  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
+  port: 443
+  server: 3.36.96.245
+  skip-cert-verify: true
+  sni: 3.36.96.245
   tls: false
   type: hysteria2
 - name: 🩵+@Azarakhsh_Proxy+🩷
@@ -824,14 +858,6 @@ proxies:
   sni: pro2.riziro.ir
   tls: false
   type: hysteria2
-- name: 🏓32@oneclickvpnkeys
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 46.229.243.132
-  skip-cert-verify: true
-  sni: grape-turbo-fr.roxa.org
-  tls: false
-  type: hysteria2
 - name: 🍑77@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
@@ -886,6 +912,25 @@ proxies:
   server: de.1.22.washing.help
   skip-cert-verify: true
   sni: germany1.h2corp.local
+  tls: false
+  type: hysteria2
+- name: Telegram 🆔@cnetvpn 🇫🇮
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: xf2ak19a4uajprxg
+  port: 52090
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 🇹🇷153029 | ⚡️Telegram = t.me/S...
+  obfs: salamander
+  obfs-password: 9p13xps580n4i1hs
+  password: z5730rxgy0lezhc7
+  port: 2053
+  server: free.diginoisb.ir
+  skip-cert-verify: false
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
